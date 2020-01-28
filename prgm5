@@ -1,0 +1,19 @@
+<html dir="ltr">
+<head>
+<title>this is document title
+</title>
+</head>
+<body>
+<b>this is so cool-bold</b><br/>
+<u>this is so cool-underline</u><br/>
+<i>this is so cool-italic</i><br/>
+<strike>this is not cool-strike</strike><br/>
+<ins>this is so cool-inserted</ins><br/>
+<del>this is so cool-deleted</del><br/>
+<big>this is so cool-larger</big><br/>
+<small>this is not cool-smaller</small>
+
+</body>
+
+
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>this is document title
+</title>
+</head>
+<body bgcolor="prakash">
+<h1>heading</h1>
+<h3>head<br/>ing</h3>
+<h6>heading</h6>
+<p>this</p>
+<p style="color:red">is</p>
+<p>me</p>
+<p><font size="10" color="cyan">document content goes here...</font></p>
+</body>
+
+
+</html>

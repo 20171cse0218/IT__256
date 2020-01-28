@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>line break example</title>
+</head>
+<body>
+<p>hello
+<pre>
+you delivered your assignment on time.
+h
+i
+m
+</pre>
+</body>
+</html>
