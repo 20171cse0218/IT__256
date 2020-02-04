@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>ordered list</title>
+</head>
+<body>
+
+</body>
+<ol type="i" start='3'>
+<li>monday</li>
+<li>tuesday</li>
+<li>wedday</li>
+<li>thrusday</li>
+<li>friday</li>
+<li>satday</li>
+</ol>
+</html>
+

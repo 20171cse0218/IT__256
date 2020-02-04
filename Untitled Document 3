@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>defination list</title>
+</head>
+<body>
+
+</body>
+<dl>
+<dt>monday</dt>
+<dd>fully unmotivated</dd>
+<dt>wednesday</dt>
+<dd>half motivated for wekend</dd>
+<dt>friday</dt>
+<dd>uff finally!</dd>
+</dl>
+</html>
+

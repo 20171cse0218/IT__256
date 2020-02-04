@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>unordered list</title>
+</head>
+<body>
+
+</body>
+<ul type="circle">
+<li>monday</li>
+<li type="square">tuesday</li>
+<li>wedday</li>
+<li type="square">thrusday</li>
+<li>friday</li>
+<li type="square">satday</li>
+</ul>
+</html>
+

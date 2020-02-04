@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>example</title>
+</head>
+<body>
+<a name="top">top</a>
+<a href="Untitled Document 5">table</a>|
+<a href="http://www.google.com">google</a>
+<p>
+</p>
+<a href=#top>up</a>
+</body>
+
+</html>
+

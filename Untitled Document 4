@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>ordered & unorderedlist</title>
+</head>
+<body>
+
+</body>
+<ol>
+<li>monday</li>
+<li>tuesday</li>
+<li>
+wednesday
+<ul>
+<li>drink cofee</li>
+<li>stress less</li>
+</ul>
+</li>
+<li>thrusday</li>
+<li>friday</li>
+<li>
+satday
+<ul>
+<li>wekend</li>
+<li>chill
+<ul>
+<li>netflix</li>
+<li>eat</li>
+<li>sleep</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+</html>
+
