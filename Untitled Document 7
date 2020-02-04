@@ -1,0 +1,9 @@
+<html>
+<head>
+<title align=center>image in websites</title>
+</head>
+<body>
+<img src="img.jpg" alt="fruit" width="380" height="400"> 
+</body>
+</html>
+
